@@ -7,12 +7,6 @@
 
 
 
-📫 How to reach me:
-- [![Linkdedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-adam7/)
-- ![Image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) danielyosef.adam@gmail.com
-#
-
-
 ✊Skilled programmer in:
 
 ![Image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
