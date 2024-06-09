@@ -27,6 +27,7 @@ I'm Daniel Adam - a Junior Backend and Cloud Developer, AWS certified with a �
 💪🏻 with a strong work ethic and a sense of ownership
 ##
 
+
 ## Contact me 👋🏻
 
 [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-adam-backend-developer/)
