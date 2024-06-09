@@ -1,11 +1,8 @@
 # Hi everyone 👋
 
-I'm Daniel Adam - a Junior Backend and Cloud Developer, AWS certified, and a graduate in 🎓 B.Sc.Computer Science from Ben Gurion University
-## 💻 Technologies and Tools
-[![My Skills](https://skillicons.dev/icons?i=django,py,java,aws,postgres,git)](https://skillicons.dev)  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieladam7&theme=github_white&layout=compact&hide_border=true" /></a> |
+I'm Daniel Adam - a Junior Backend Cloud Developer, AWS certified, and a graduate in 🎓 B.Sc.Computer Science from Ben Gurion University
 
-
-## Development Skills
+## 💡 Development Skills
 
 ✔ With proven experience developing scalable, reliable, resilient, and secure backend applications using Python and Django Framework.
 
@@ -15,12 +12,16 @@ I'm Daniel Adam - a Junior Backend and Cloud Developer, AWS certified, and a gra
 
 ✔ Strong  knowledge and project-based background in supervised and unsupervised machine learning, as well as in natural language processing.
 
+## 💻 Technologies and Tools
+[![My Skills](https://skillicons.dev/icons?i=django,py,java,aws,postgres,git)](https://skillicons.dev)  
+
+
 ##  📈 Currently learning about
 
 ⚒ socket.io to integrate a real-time "chat with me" section into my website
 
 
-## 💡 Soft Skills 
+## 🙋🏻‍♂️ Soft Skills 
 
 ⚡ Fast learner
 
