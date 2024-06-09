@@ -2,7 +2,7 @@
 
 I'm Daniel Adam - a Junior Backend Cloud Developer, AWS certified, and a graduate in 🎓 B.Sc.Computer Science from Ben Gurion University
 
-## 💡 Development Skills
+## 💡 Development Skills 
 
 ✔ With proven experience developing scalable, reliable, resilient, and secure backend applications using Python and Django Framework.
 
@@ -12,16 +12,16 @@ I'm Daniel Adam - a Junior Backend Cloud Developer, AWS certified, and a graduat
 
 ✔ Strong  knowledge and project-based background in supervised and unsupervised machine learning, as well as in natural language processing.
 
-## 💻 Technologies and Tools
+## 💻 Technologies and Tools 
 [![My Skills](https://skillicons.dev/icons?i=django,py,java,aws,postgres,git)](https://skillicons.dev)  
 
 
-##  📈 Currently learning about
+## 📈 Currently learning about
 
 ⚒ socket.io to integrate a real-time "chat with me" section into my website
 
 
-## 🙋🏻‍♂️ Soft Skills 
+## 🔧 Soft Skills 
 
 ⚡ Fast learner
 
@@ -34,11 +34,11 @@ I'm Daniel Adam - a Junior Backend Cloud Developer, AWS certified, and a graduat
 💪🏻 with a strong work ethic and a sense of ownership
 
 
-## 😆 Fun fact 
+## 😆 Fun fact
 🚿 I take cold showers
 ##
 
-## 📕 Latest Blog Posts
+## 📕 Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
 - [AWS Cloud Practitioner: 🌟My first milestone in my cloud journey!🌟](https://danieladam.click/posts/aws-cloud-practitioner)
 
