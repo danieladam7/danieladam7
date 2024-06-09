@@ -15,7 +15,7 @@ I'm Daniel Adam - a Junior Backend and Cloud Developer, AWS certified with a �
 ⚒ Currently learning about socket.io to integrate a real-time "chat with me" section into my website
 ##
 
-⚡ Fast learnerQ
+⚡ Fast learner
 
 🎯 highly self-motivated
 
