@@ -1,6 +1,6 @@
 # Hi everyone 👋
 
-I'm Daniel Adam - a Junior Backend and Cloud Developer, AWS certified with a 🎓 B.Sc. in Computer Science from Ben Gurion University
+I'm Daniel Adam - a Junior Backend and Cloud Developer, AWS certified, and a graduate in 🎓 B.Sc.Computer Science from Ben Gurion University
 ## 💻 Technologies and Tools
 [![My Skills](https://skillicons.dev/icons?i=django,py,aws,postgres,git)](https://skillicons.dev)
 
