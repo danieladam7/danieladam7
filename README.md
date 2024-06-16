@@ -4,13 +4,13 @@ I'm Daniel Adam - a Junior Backend Cloud Developer, AWS certified, and a graduat
 
 ## 💡 Development Skills 
 
-✔ With proven experience developing scalable, reliable, resilient, and secure backend applications using Python and Django Framework.
+✔ Proven experience developing scalable, reliable, resilient, and secure backend applications using Python and Django Framework.
 
 ✔ Highly skilled in AWS services for deployment, infrastructure handling, and CI/CD, and use Git for Version Control.
 
 ✔ Solid background in object-oriented design, microservice architecture and event-driven design, Data Structures and Algorithms, and clean coding.
 
-✔ Strong  knowledge and project-based background in supervised and unsupervised machine learning, as well as in natural language processing.
+✔ Strong  knowledge and project-based background in supervised and unsupervised machine learning and natural language processing.
 
 ## 💻 Technologies and Tools 
 [![My Skills](https://skillicons.dev/icons?i=django,py,java,aws,postgres,git)](https://skillicons.dev)  
@@ -25,13 +25,13 @@ I'm Daniel Adam - a Junior Backend Cloud Developer, AWS certified, and a graduat
 
 ⚡ Fast learner
 
-🎯 highly self-motivated
+🎯 Highly self-motivated
 
-📈 Enthusiastic about continuous growth.
+📈 Enthusiastic about continuous growth
 
-📌 well-organized
+📌 Well-organized
 
-💪🏻 with a strong work ethic and a sense of ownership
+💪🏻 Strong work ethic and a sense of ownership
 
 
 ## 😆 Fun fact
