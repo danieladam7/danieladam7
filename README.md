@@ -1,6 +1,6 @@
 # Hi everyone 👋
 
-I'm Daniel Adam - a Junior Backend Cloud Developer, AWS certified, and a graduate in 🎓 B.Sc.Computer Science from Ben Gurion University
+I'm Daniel Adam - a Junior Backend Developer, AWS certified, and a graduate in 🎓 B.Sc.Computer Science from Ben Gurion University
 
 ## 💡 Development Skills 
 
@@ -18,7 +18,7 @@ I'm Daniel Adam - a Junior Backend Cloud Developer, AWS certified, and a graduat
 
 ## 📈 Currently learning about
 
-⚒ socket.io to integrate a real-time "chat with me" section into my website
+⚒ Socket.IO to integrate a real-time "chat with me" section into my website
 
 
 ## 🔧 Soft Skills 
