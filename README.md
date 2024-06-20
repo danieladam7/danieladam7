@@ -1,24 +1,21 @@
 # Hi everyone 👋
 
-I'm Daniel Adam - a Junior Backend Developer, AWS certified, and a graduate in 🎓 B.Sc.Computer Science from Ben Gurion University
+I'm Daniel - a Junior Backend Developer, AWS certified, and currently graduating in 🎓 Computer Science from Ben Gurion University.
 
 ## 💡 Development Skills 
 
-✔ Proven experience developing scalable, reliable, resilient, and secure backend applications using Python and Django Framework.
+✔ Experienced in developing scalable backend applications using Python and Django.
 
-✔ Highly skilled in AWS services for deployment, infrastructure handling, and CI/CD, and use Git for Version Control.
+✔ Proficient with modern development tools like Git version control
 
-✔ Solid background in object-oriented design, microservice architecture and event-driven design, Data Structures and Algorithms, and clean coding.
+✔ Well-versed in AWS services for cloud deployment, infrastructure, and CI/CD, enhancing robust and resilient applications.
 
-✔ Strong  knowledge and project-based background in supervised and unsupervised machine learning and natural language processing.
+✔ Solid background in object-oriented design, clean coding, microservice architecture, event-driven design, Data Structures, and Algorithms.
+
+✔ Strong  knowledge and project-based background in supervised and unsupervised machine learning, and natural language processing.
 
 ## 💻 Technologies and Tools 
 [![My Skills](https://skillicons.dev/icons?i=django,py,java,aws,postgres,git)](https://skillicons.dev)  
-
-
-## 📈 Currently learning about
-
-⚒ Socket.IO to integrate a real-time "chat with me" section into my website
 
 
 ## 🔧 Soft Skills 
@@ -27,15 +24,19 @@ I'm Daniel Adam - a Junior Backend Developer, AWS certified, and a graduate in �
 
 🎯 Highly self-motivated
 
-📈 Enthusiastic about continuous growth
-
 📌 Well-organized
 
 💪🏻 Strong work ethic and a sense of ownership
 
+📈 Enthusiastic about continuous growth and learning new technologies
 
-## 😆 Fun fact
-🚿 I take cold showers
+
+## 🙋🏻‍♂ More about me 
+
+🇩🇪  I made Aliyah independently 🇮🇱 and mastered a new language, experiences which have significantly enhanced my adaptability and resilience.
+
+🏃🏻‍♂️I am passionate about running 
+
 ##
 
 ## 📕 Latest Blog Posts 
