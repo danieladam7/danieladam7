@@ -21,7 +21,7 @@ I hold a 🎓 B.Sc. from Ben Gurion University and an AWS certification.
 ✔ Languages: JavaScript, Python, Java, SQL
 
 ## 💻 Technologies and Tools 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,js,django,py,java,aws,postgres,MongoDB,git,githubactions)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,js,django,py,java,aws,postgres,mongodb,git,githubactions)](https://skillicons.dev)  
 
 
 ## 🔧 Soft Skills 
@@ -34,7 +34,7 @@ I hold a 🎓 B.Sc. from Ben Gurion University and an AWS certification.
 
 📌 Well-organized
 
-📈 Enthusiastic about continuous growth and learning
+📈 Enthusiastic about continuous personal growth
 
 
 ## 🙋🏻‍♂ More about me 
