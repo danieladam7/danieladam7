@@ -1,41 +1,47 @@
 # Hi everyone 👋
 
-I'm Daniel - a Junior Backend Developer, AWS certified, and currently graduating in 🎓 Computer Science from Ben Gurion University.
+I'm Daniel - a Junior Software Developer, specializing in backend development, automation, and cloud computing.
+
+I hold a 🎓 B.Sc. from Ben Gurion University and an AWS certification.
 
 ## 💡 Development Skills 
 
-✔ Experienced in developing scalable backend applications using Python and Django.
+✔ Backend Development: Node.js, Express.js, Django, Python
 
-✔ Proficient with modern development tools like Git version control
+✔ Automated testing: Jest, Supertest, Axios (internal and external API testing and mocking)
 
-✔ Well-versed in AWS services for cloud deployment, infrastructure, and CI/CD, enhancing robust and resilient applications.
+✔ CI/CD: git version control during development and GitHub actions for automated tests
 
-✔ Solid background in object-oriented design, clean coding, microservice architecture, event-driven design, Data Structures, and Algorithms.
+✔ Cloud Infrastructure & Deployment: AWS (certified)
 
-✔ Strong  knowledge and project-based background in supervised and unsupervised machine learning, and natural language processing.
+✔ Solid experience in: clean code and test-driven best practices, async/await handling, error handling, object-oriented and event-driven design, and microservices.
+
+✔ Strong knowledge in supervised/unsupervised machine learning, and natural language processing.
+
+✔ Languages: JavaScript, Python, Java, SQL
 
 ## 💻 Technologies and Tools 
-[![My Skills](https://skillicons.dev/icons?i=django,py,java,aws,postgres,git)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,js,django,py,java,aws,postgres,MongoDB,git,githubactions)](https://skillicons.dev)  
 
 
 ## 🔧 Soft Skills 
 
-⚡ Fast learner
+⚡ Fast and autodidact learner
 
-🎯 Highly self-motivated
+🎯 Independent problem-solver
+
+💪🏻 Team player with strong work ethic
 
 📌 Well-organized
 
-💪🏻 Strong work ethic and a sense of ownership
-
-📈 Enthusiastic about continuous growth and learning new technologies
+📈 Enthusiastic about continuous growth and learning
 
 
 ## 🙋🏻‍♂ More about me 
 
 🇩🇪  I made Aliyah independently 🇮🇱 and mastered a new language, experiences which have significantly enhanced my adaptability and resilience.
 
-🏃🏻‍♂️I am passionate about running 
+🏃🏻‍♂️ In life I'm  excited about family, dogs, nature, health, philosophy & geopolitics, and coffee.  
 
 ##
 
