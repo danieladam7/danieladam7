@@ -6,44 +6,35 @@ I hold a 🎓 B.Sc. from Ben Gurion University and an AWS certification.
 
 ## 💡 Development Skills 
 
-✔ Backend Development: Node.js, Express.js, Django, Python
+✔ Backend Development: Node.js (Express.js), Python (Django)
 
-✔ Automated testing: Jest, Supertest, Axios (internal and external API testing and mocking)
-
-✔ CI/CD: git version control during development and GitHub actions for automated tests
+✔ Automated testing: Jest, Supertest, Axios (internal & external API testing)
 
 ✔ Cloud Infrastructure & Deployment: AWS (certified)
 
-✔ Solid experience in: clean code and test-driven best practices, async/await handling, error handling, object-oriented and event-driven design, and microservices.
-
-✔ Strong knowledge in supervised/unsupervised machine learning, and natural language processing.
+✔ CI/CD: Git version control, GitHub actions
 
 ✔ Languages: JavaScript, Python, Java, SQL
+
+✔ System Design: Async/Await handling, Object-Oriented & Event-Driven Design
+
+✔ Machine Learning: supervised & unsupervised learning, natural language processing
+
 
 ## 💻 Technologies and Tools 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,js,django,py,java,aws,postgres,mongodb,git,githubactions)](https://skillicons.dev)  
 
 
-## 🔧 Soft Skills 
+## 🙎🏻‍♂️ More about me 
 
-⚡ Fast and autodidact learner
+⚡ Fast learner
 
 🎯 Independent problem-solver
 
-💪🏻 Team player with strong work ethic
+💪🏻 Proactive team player 
 
-📌 Well-organized
+📈 Enthusiastic about continuous growth
 
-📈 Enthusiastic about continuous personal growth
-
-
-## 🙋🏻‍♂ More about me 
-
-🇩🇪  I made Aliyah independently 🇮🇱 and mastered a new language, experiences which have significantly enhanced my adaptability and resilience.
-
-🏃🏻‍♂️ In life I'm  excited about family, dogs, nature, health, philosophy & geopolitics, and coffee.  
-
-##
 
 ## 📕 Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
